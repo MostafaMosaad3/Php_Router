@@ -1,0 +1,16 @@
+{
+    "name": "compulab/php-mvc",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+        },
+
+    "authors": [
+        {
+            "name": "mostafa",
+            "email": "mm9852803@gmail.com"
+        }
+    ],
+    "require": {}
+}
